@@ -1,4 +1,7 @@
 package org.example
 
-var countOrders: Int = 75
-val thanksMessage: String = "спасибо за покупку!"
+fun lesson11(){
+    var countOrders: Int = 75
+    val thanksMessage: String = "спасибо за покупку!"
+}
+
